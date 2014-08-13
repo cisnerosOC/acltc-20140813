@@ -34,5 +34,6 @@
 
 ## Challenges
 - Render the songs in an html table using ng-repeat
+- Add bootstrap to the project and use it to save your eyes from Zach's design
 - Use [this post](http://blog.testdouble.com/posts/2013-12-06-angular-onramp.html) to add filtering
 - Use the same post to add sorting
